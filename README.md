@@ -9,7 +9,6 @@ If you see anything that could be added or changed don't hesitate to make a pull
 ## *** NOTICE ***
 ### Initial support of macOS on the Sony Vaio VGN-NW320F has been achieved. Should work on other VGN-NWxxxx models and possibly other similar speced Core 2 Duo computers as I am striving to make this EFI independent of full DSDT edits as was commonplace back when this computer was mainstream. This EFI is not for use yet as a daily driver though I suspect if you still have this computer its not being used as a daily driver anyway. 
 ### The GMA4500MHD graphics chipset is not nor will ever be supported.
-### At this time graphics resolution is at a non-native stretched resolution pending implementation of a GMA3100/4000 hack to gain native resolution.
 ### QE/CI (A.K.A. Acceleration) is not nor will ever be achieved. This means some tasks may result in screen glitches or slugishness due to VESA mode support only.
 
 ## Sony Vaio VGN-NW320F Specifications:
@@ -44,6 +43,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 
 - macOS 10.6.X through 10.13.X
 - Wi-Fi (10.8.X through 10.13.X)
+- Graphics Resolution Set (ForceResolution QuirK)
 - Fan
 - USB
 - Battery
@@ -55,15 +55,15 @@ If you see anything that could be added or changed don't hesitate to make a pull
 
 ## What doesn't work
 
-- Graphic Acceleration QE/CI.
-- SDcard
-- MagicGate
+- Graphics Acceleration QE/CI. (Won't ever work)
+- SDcard (Unlikely to work)
+- MagicGate (Unlikely to ever work)
 - HDMI
 - Audio: Built-in Microphone
 - Windows boot from OC/Clover
 - FileVault
 - Recovery
-- Brightness Adjustment
+- Brightness Adjustment (Unlikely to ever work)
 - Power Management
 - Sleep / Wake
 - FireWire
