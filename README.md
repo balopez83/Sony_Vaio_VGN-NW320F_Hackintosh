@@ -20,7 +20,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 |GPU| GMA 4500MHD |
 |RAM| 8 GB (Upgraded) |
 |SSD| 512GB SATA (Upgraded) |
-|WiFi| Atheros 9256 A/B/G/N |
+|WiFi| Atheros 9285 PCIe A/B/G/N |
 |Batt| 5,200 mAH |
 |USB| 3x USB 2.0, FireWire |
 |Other| VGA, HDMI, Ethernet |
@@ -43,7 +43,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 ## What works 
 
 - macOS 10.6.X through 10.13.X
-- Wi-Fi
+- Wi-Fi (10.8.X through 10.13.X)
 - Fan
 - USB
 - Battery
