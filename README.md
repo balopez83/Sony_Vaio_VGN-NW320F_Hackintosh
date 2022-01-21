@@ -10,6 +10,8 @@ If you see anything that could be added or changed don't hesitate to make a pull
 ### Initial support of macOS on the Sony Vaio VGN-NW320F has been achieved. Should work on other VGN-NWxxxx models and possibly other similar speced Core 2 Duo computers with some minor adjustments to the EFI. 
 ### The GMA4500MHD graphics chipset is not nor will ever be supported and as such there is not QE/CI (A.K.A. Acceleration) support. This means some tasks may result in screen glitches or slugishness due to VESA mode support only.
 
+![High Sierra](https://github.com/balopez83/Sony_Vaio_VGN-NW320F_Hackintosh/blob/main/Screenshots/Sony-Vaio_VGN-NW320F_High-Sierra.png)
+
 ## Sony Vaio VGN-NW320F Specifications:
 
 | Model: | VGN-NW320F |
