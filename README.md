@@ -1,13 +1,11 @@
-# Sony_Vaio_VGN-NW320F_Hackintosh
+# Sony_Vaio_VGN-NW_Hackintosh
 Dusting off the cobwebs of an old BIOS based Core2Duo Vaio and attempting to turn it into a usable Hackintosh
-
-Initial support for macOS version 10.6.X Snow Leopard through 10.13.X.
 
 If you see anything that could be added or changed don't hesitate to make a pull request.
 
 
 ## *** NOTICE ***
-### Initial support of macOS on the Sony Vaio VGN-NW320F has been achieved. Should work on other VGN-NWxxxx models and possibly other similar speced Core 2 Duo computers with some minor adjustments to the EFI. 
+### Initial support of macOS on the Sony Vaio VGN-NW series computers has been achieved. Should work on all VGN-NW models and possibly other similar speced Core 2 Duo computers with some minor adjustments to the EFI. 
 ### The GMA4500MHD graphics chipset is not nor will ever be supported and as such there is not QE/CI (A.K.A. Acceleration) support. This means some tasks may result in screen glitches or slugishness due to VESA mode support only.
 
 ![High Sierra](https://github.com/balopez83/Sony_Vaio_VGN-NW320F_Hackintosh/blob/main/Screenshots/Sony-Vaio_VGN-NW320F_High-Sierra.png)
@@ -26,6 +24,27 @@ If you see anything that could be added or changed don't hesitate to make a pull
 |Other| VGA, HDMI, Ethernet |
 |     | SD, MagicGate, PCMCIA |
 
+## Current State Of Support:
+
+- Mac OS X 10.0 - 10.3 are PowerPC based and cannot be installed
+- [ ] macOS 10.4 Tiger (End of Life)
+- [X] macOS 10.5 Leopard (End of Life - Lacks WiFi Support)
+- [X] macOS 10.6 Snow Leopard (End of Life)
+- [X] macOS 10.7 Lion (End of Life)
+- [X] macOS 10.8 Mountain Lion (End of Life)
+- [X] macOS 10.9 Mavericks (End of Life)
+- [X] macOS 10.10 Yosemite (End of Life)
+- [X] macOS 10.11 El Capitan (End of Life)
+- [X] macOS 10.12 Sierra (End of Life)
+- [X] macOS 10.13 High Sierra (End of Life)
+- [X] macOS 10.14 Mojave (End of Life)
+- [X] macOS 10.15 Catalina (End of Life)
+- [X] macOS 11 Big Sur (End of Life - Not Recommended w/o QE/CI, Computer is Very SLOW)
+- [X] macOS 12 Monterey (Not Recommended w/o QE/CI Computer, is Very SLOW)
+- [X] macOS 13 Ventura (Not Recommended w/o QE/CI Computer, is Very SLOW)
+- [X] macOS 14 Sonoma (Not Recommended w/o QE/CI Computer, is Very SLOW)
+- [ ] macOS 15 ????
+
 
 
 ## Instruction Guides
@@ -42,33 +61,35 @@ If you see anything that could be added or changed don't hesitate to make a pull
 
 ## What works 
 
-- macOS 10.6.X through 10.13.X
-- Wi-Fi (10.8.X through 10.13.X)
+- macOS Installer (See above for supported versions)
+- macOS (See above for supported versions)
+- Wi-Fi (10.6.x through 14.x.x)
 - Graphics set to proper resolution of 1366x768 (ForceResolution QuirK)
 - Fan
 - USB
 - Battery
 - Trackpad (In macOS, not OC boot picker)
-- Keyboard (In macOS, not OC boot picker)
+- Keyboard
 - Audio
+- MagicGate Data Card (SDcard)
+- Windows Dual Boot
+- FileVault
+- Recovery
+- Power Management (Partialy Working: CPU and peripheral only)
+- FireWire
+
 
 
 
 ## What doesn't work
 
 - Graphics Acceleration QE/CI. (Won't ever work)
-- SDcard (Unlikely to work)
-- HDMI (Untested)
-- Windows boot from OC/Clover
-- FileVault
-- Recovery
-- Brightness Adjustment (Unlikely to ever work)
-- Power Management
-- Sleep / Wake
-- FireWire (Untested)
+- HDMI (Requires QE/CI; Won't ever work)
+- Brightness Adjustment (Requires QE/CI; Won't ever work)
+- Graphics Power Management (Requires QE/CI; Won't ever work)
+- Sleep / Wake (Requires QE/CI: Won't ever work)
 - PCMCIA (Untested)
-- VGA (Untested)
-- Keyboard/Mouse while in OpenCore boot picker. 
+- VGA (Requires QE/CI; Won't ever work)
 
 
 
