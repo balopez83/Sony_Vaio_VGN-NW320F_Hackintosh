@@ -22,7 +22,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 |Batt| 5,200 mAH |
 |USB| 3x USB 2.0, FireWire |
 |Other| VGA, HDMI, Ethernet |
-|     | SD, MagicGate, PCMCIA |
+|     | SD, MagicGate, PCMCIA, DVD R/W |
 
 ## Current State Of Support:
 
@@ -77,6 +77,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 - Recovery
 - Power Management (Partialy Working: CPU and peripheral only)
 - FireWire
+- DVD/CD Read & Write (If OpenCore launched first you can boot from a CD/DVD as well)
 
 
 
