@@ -28,8 +28,8 @@ If you see anything that could be added or changed don't hesitate to make a pull
 
 - Mac OS X 10.0 - 10.3 are PowerPC based and cannot be installed
 - [ ] macOS 10.4 Tiger (End of Life)
-- [X] macOS 10.5 Leopard (End of Life - Unreliable, Lots of KP's & Lacks WiFi Support)
-- [X] macOS 10.6 Snow Leopard (End of Life - Unreliable, Lots of KP's & Lacks WiFi Support)
+- [X] macOS 10.5 Leopard (End of Life - Lacks WiFi Support)
+- [X] macOS 10.6 Snow Leopard (End of Life - Lacks WiFi Support)
 - [X] macOS 10.7 Lion (End of Life)
 - [X] macOS 10.8 Mountain Lion (End of Life)
 - [X] macOS 10.9 Mavericks (End of Life)
