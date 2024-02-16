@@ -30,7 +30,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 - [ ] macOS 10.4 Tiger (End of Life)
 - [X] macOS 10.5 Leopard (End of Life - Lacks WiFi, Keyboard, & TrackPad Support)
 - [X] macOS 10.6 Snow Leopard (End of Life - Lacks WiFi Support)
-- [X] macOS 10.7 Lion (End of Life)
+- [X] macOS 10.7 Lion (End of Life - Lacks WiFi Support)
 - [X] macOS 10.8 Mountain Lion (End of Life)
 - [X] macOS 10.9 Mavericks (End of Life)
 - [X] macOS 10.10 Yosemite (End of Life)
@@ -63,7 +63,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 
 - macOS Installer (See above for supported versions)
 - macOS (See above for supported versions)
-- Wi-Fi (10.6.x through 14.x.x)
+- Wi-Fi (10.8.x through 14.x.x)
 - Graphics set to proper resolution of 1366x768 (ForceResolution QuirK)
 - Fan
 - USB
