@@ -50,12 +50,6 @@ If you see anything that could be added or changed don't hesitate to make a pull
 ## Instruction Guides
 
 ### [Chapter 1) Quick Start Install]
-### [Chapter 2) BootCamp Install]
-### [Chapter 3) Quirks & Fixes]
-### [Chapter 4) Additional Drivers]
-### [Chapter 5) Booting Other OS's with OpenCore]
-### [Chapter 6) Other Operating Systems]
-### [Chapter 7) Other OS Quirks & Fixes]
 
 
 
