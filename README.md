@@ -40,9 +40,9 @@ If you see anything that could be added or changed don't hesitate to make a pull
 - [X] macOS 10.14 Mojave (End of Life)
 - [X] macOS 10.15 Catalina (End of Life)
 - [X] macOS 11 Big Sur (End of Life - Not Recommended w/o QE/CI, Computer is Very SLOW)
-- [X] macOS 12 Monterey (Not Recommended w/o QE/CI Computer, is Very SLOW)
-- [X] macOS 13 Ventura (Not Recommended w/o QE/CI Computer, is Very SLOW)
-- [X] macOS 14 Sonoma (Not Recommended w/o QE/CI Computer, is Very SLOW)
+- [] macOS 12 Monterey (Not Recommended w/o QE/CI Computer, is Very SLOW)
+- [] macOS 13 Ventura (Not Recommended w/o QE/CI Computer, is Very SLOW)
+- [] macOS 14 Sonoma (Not Recommended w/o QE/CI Computer, is Very SLOW)
 - [ ] macOS 15 ????
 
 
@@ -63,7 +63,7 @@ If you see anything that could be added or changed don't hesitate to make a pull
 
 - macOS Installer (See above for supported versions)
 - macOS (See above for supported versions)
-- Wi-Fi (10.8.x through 14.x.x)
+- Wi-Fi (10.8.x through 11.x.x)
 - Graphics set to proper resolution of 1366x768 (ForceResolution QuirK)
 - Fan
 - USB
