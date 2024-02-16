@@ -39,10 +39,10 @@ If you see anything that could be added or changed don't hesitate to make a pull
 - [X] macOS 10.13 High Sierra (End of Life)
 - [X] macOS 10.14 Mojave (End of Life)
 - [X] macOS 10.15 Catalina (End of Life - ***Recommended***)
-- [X] macOS 11 Big Sur (End of Life - Not Recommended w/o QE/CI, Computer is Very SLOW)
-- [ ] macOS 12 Monterey (Not Recommended w/o QE/CI Computer, is Very SLOW)
-- [ ] macOS 13 Ventura (Not Recommended w/o QE/CI Computer, is Very SLOW)
-- [ ] macOS 14 Sonoma (Not Recommended w/o QE/CI Computer, is Very SLOW)
+- [X] macOS 11 Big Sur (End of Life - Not Recommended w/o QE/CI Computer is Very SLOW)
+- [ ] macOS 12 Monterey
+- [ ] macOS 13 Ventura
+- [ ] macOS 14 Sonoma
 - [ ] macOS 15 ????
 
 
